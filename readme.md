@@ -37,4 +37,6 @@ next:
 _git push origin master_
 
 here origin is the name we linked earlier.
-master is the name of the branch
+master is the name of the branch, can be also be called main.
+
+with __git push__ we push 1 branch of commits at a time
